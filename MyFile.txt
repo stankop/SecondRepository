@@ -1,2 +1,3 @@
 Ovo smo dodali kao dev2 iz USA.
 OVo smo dodlali kao dev1 is India.
+Changes from undertsand .git.
